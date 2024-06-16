@@ -10,18 +10,45 @@
     },
     "items": [
         {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html",
-            "title": "How i manage to never ever burn out.",
-            "summary": "Im just too based for that tbh.",
-            "content_html": "\n  <p>\n    Im just too based for that tbh.\n  </p>",
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
+            "title": "One of my Projects",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-16T20:51:27+02:00",
+            "date_modified": "2024-06-16T20:51:27+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
+            "title": "Infinite",
+            "summary": "Infinite is...",
+            "content_html": "<p>Infinite is...</p>",
             "author": {
                 "name": "Toyo"
             },
             "tags": [
             ],
-            "date_published": "2024-06-16T17:35:30+02:00",
-            "date_modified": "2024-06-16T17:35:30+02:00"
+            "date_published": "2024-06-16T20:49:55+02:00",
+            "date_modified": "2024-06-16T20:49:55+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/choosing-an-engine.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/choosing-an-engine.html",
+            "title": "Choosing an Engine",
+            "summary": "Welcome to my first blog post! So i have decided that im going to be primarily using Gamemaker Studio 2 for 2D games,&hellip;",
+            "content_html": "<p>Welcome to my first blog post!<br><br>So i have decided that im going to be primarily using Gamemaker Studio 2<br>for 2D games, and Unreal Engine for 3D games. I have tested Gamemaker<br>for a while now and i find it to be easy and convenient to use,<br>it also only requires a one-time fee to start commercially selling your games.<br>Most engines are going to take a cut once your game has sold a certrain number<br>of copies, but not Gamemaker (or Godot). But the downside to Gamemaker is that<br>you can't create 3D games, at least not without tricking the hell out of<br>the engine. So im going to be using Unreal for 3D, i've been considering Unity,<br>however since the whole drama that happened where they wanted to charge game<br>devs for installations, i don't think that's a good idea.<br><br>Both Unreal and Unity feature a visual programming language, similar to the one in used back in LittleBigPlanet. So i'd probably be able to get into it pretty quickly, however<br>for Gamemaker at least i do want to use its dedicated gml code as much as possible,<br>because it would improve my traditonal coding skills, for Unreal i think i'll use<br>their blueprint system primarily though, as they only offer c++ as an alternative<br>which im not very interested in learning right now, blueprints seem to be powerful enough.<br><br>I had also been learning Renpy a while back, it's an engine and programming language for the developement of visual novels and it's very easy to use, i feel like i got the most<br>importing things figured out about it, right now i dont really want to focus on visual<br>novel stuff though, but it's nice to know i suppose.<br><br>Alright so i'm currently watching a bunch of tutorials on Gamemaker, i already learned some stuff but its all still very basic. And without tutorials i cant really make much at all,<br>so im kind of trapped in tutorial hell right now. I'll try to participate in Game Jams<br>as soon as possible as its the quickest and best way to learn in game developement from what i've seen.<br><br>But first i want to finish a short experimental Platformer game first called Rainhiker,<br>so i can gain some more skill before actually participating in any Game Jams.<br>I only have a rough concept for the game right now i do think i can make something<br>out of it...</p>",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-16T20:46:37+02:00",
+            "date_modified": "2024-06-16T20:48:55+02:00"
         }
     ]
 }
