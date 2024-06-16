@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oo1toyo1oo.github.io/WhoIsToyo/sitemap.xml

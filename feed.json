@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WhoIsToyo?",
+    "description": "",
+    "home_page_url": "https://oo1toyo1oo.github.io/WhoIsToyo",
+    "feed_url": "https://oo1toyo1oo.github.io/WhoIsToyo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Toyo"
+    },
+    "items": [
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html",
+            "title": "How i manage to never ever burn out.",
+            "summary": "Im just too based for that tbh.",
+            "content_html": "\n  <p>\n    Im just too based for that tbh.\n  </p>",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-16T17:35:30+02:00",
+            "date_modified": "2024-06-16T17:35:30+02:00"
+        }
+    ]
+}

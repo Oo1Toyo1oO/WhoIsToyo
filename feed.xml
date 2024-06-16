@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>WhoIsToyo?</title>
+    <link href="https://oo1toyo1oo.github.io/WhoIsToyo/feed.xml" rel="self" />
+    <link href="https://oo1toyo1oo.github.io/WhoIsToyo" />
+    <updated>2024-06-16T17:35:30+02:00</updated>
+    <author>
+        <name>Toyo</name>
+    </author>
+    <id>https://oo1toyo1oo.github.io/WhoIsToyo</id>
+
+    <entry>
+        <title>How i manage to never ever burn out.</title>
+        <author>
+            <name>Toyo</name>
+        </author>
+        <link href="https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html"/>
+        <id>https://oo1toyo1oo.github.io/WhoIsToyo/how-i-manage-to-never-ever-burn-out.html</id>
+
+        <updated>2024-06-16T17:35:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Im just too based for that tbh.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Im just too based for that tbh.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
