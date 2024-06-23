@@ -3,12 +3,32 @@
     <title>WhoIsToyo?</title>
     <link href="https://oo1toyo1oo.github.io/WhoIsToyo/feed.xml" rel="self" />
     <link href="https://oo1toyo1oo.github.io/WhoIsToyo" />
-    <updated>2024-06-16T20:51:27+02:00</updated>
+    <updated>2024-06-23T21:01:25+02:00</updated>
     <author>
         <name>Toyo</name>
     </author>
     <id>https://oo1toyo1oo.github.io/WhoIsToyo</id>
 
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Toyo</name>
+        </author>
+        <link href="https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html"/>
+        <id>https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html</id>
+
+        <updated>2024-06-23T20:33:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hey! I'm Toyo and i'm interested in all kinds of tech, game developement and art. Over the years i've gained a lot of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hey! I'm Toyo and i'm interested in all kinds of tech, game developement and art.<br>Over the years i've gained a lot of knowledge about the general concepts of programming,<br>largely through a game series called "LittleBigPlanet".<br><br>LittleBigPlanet introduced me to the concept of programming and game developement<br>at an early age, over the years i mastered it until i was pretty much able to programm anything<br>in it. It's shocking how powerful the visual programming language of that series is,<br>i wished it would've been on pc and allowed you to export your games but sadly everything<br>that you create in it is locked to inside of the game.<br><br>In the meantime they've also released another engine-game called "Dreams" but at this<br>point i wasn't dedicated to fully learning that anymore, it also has the exact same problems<br>as its predecessor.<br><br>So now i'm starting to learn "real" game developement engines and im going to document my progress<br>and everything between inside of my blogs in the hopes that it may help somebody else and also for myself.<br>In addition to that i am also going to showcase my already existing game projects on here and provide<br>some insights into their creation processes.<br><br>At this point i am also running a custom server for the aforementioned game series as the official servers<br>have (unsurprisingly) been shut down. I'm using open source software for this, which is convenient for me<br>as i'm actually not very experienced in networking. We also have a relatively big team at this point alongside<br>a Discord Server, it's my most successful project by far so there will be a seperate page dedicated to it.<br><br>I also have an (inactive) YouTube channel and a lot more social media, almost all of which you'll be able to<br>find on my social media page. I'm also learning html and css right now so this website will definitely<br>improve in functionality and design as time goes on and i gain more experience.<br>Oh, and im also bilingual, i speak both german and english fluently and see both as my "native"<br>languages, since i've grown up learning both. I use English primarily though, for pretty much everything<br>that doesn't involve speaking with people in real life (including thinking most of the time) as i live in Germany.<br><br>Anyway, i hope that's enough of an introduction and that you'll enjoy following my journey!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>One of my Projects</title>
         <author>
@@ -29,16 +49,20 @@
         </author>
         <link href="https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html"/>
         <id>https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html</id>
+        <media:content url="https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/3/Application-Banner.jpg" medium="image" />
 
         <updated>2024-06-16T20:49:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    Infinite is...
+                        <img src="https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/3/Application-Banner.jpg" alt="" />
+                    The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Infinite is...</p>
+                    <p><img src="https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/3/Application-Banner.jpg" class="type:primaryImage" alt="" /></p>
+                <p>The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to bring back its online functionality. To access the servers users have to modify their Playstation 3 by jailbreaking it so that the eboot.bin file (which is essentially the executable file of the game) can be modefied to connect to our server, instead of the old one, which is, of course, shut down.</p>
+<p>I'm lucky to have a passionate and dedicated Team by my side!</p>
             ]]>
         </content>
     </entry>
