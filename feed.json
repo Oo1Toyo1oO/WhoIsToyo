@@ -10,6 +10,86 @@
     },
     "items": [
         {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-2.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-2.html",
+            "title": "Real life RPG 2",
+            "summary": "After the live event that happened back in Real life RPG 1 this sequel came out, featuring a brand new map and a&hellip;",
+            "content_html": "<p>After the live event that happened back in <a href=\"https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-1.html\">Real life RPG 1</a> this sequel came out, featuring a brand new map and a bunch of new features, an old friend named InfinityZockerA9 helped me a bit with it, but i did all of the programming and most other things, this is one of the biggest game's i've ever made, it has so much content we had serious stability issues, and even now the game always crashes when you're playing with more than 2 people, for a while we coudn't even get into the game ourselves because it was too overloaded with stuff.</p>\n<p>This game features a better looking map than the first one, house upgrades, dreams, a mine, upgrades to buy, secret minigames and a lot more, it even saves your progress now and the game doesn't end anymore after a certain time limit, meaning if you buy a house for example, it will still be there the next time to play the game.</p>\n<p>We even used to have npc's that move around the map but we had to scrap it as it would make the performance even worse. There were never any life events for this part though, the game is pretty much a finished, unevolving work.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/10/ed01755ae3cbc66a3ccc8a71b88fd9d72769b795.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-24T16:09:08+02:00",
+            "date_modified": "2024-06-24T16:09:08+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-1.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-1.html",
+            "title": "Real life RPG 1",
+            "summary": "I wanted to do something special, this was a little game where you could buy houses, hang out and do all kinds of&hellip;",
+            "content_html": "<p>I wanted to do something special, this was a little game where you could buy houses, hang out and do all kinds of other activities, but eventually, the world would end, and you would be teleported to a shop where you could buy in-game cosmetic items and more with stuff you earned while playing the game. </p>\n<p>I added more content to the game as time went on, but i decided to do it in a unique way, for the most important updates i decided to do live events, similar to those you would see in games like Fortnite, these would be one-time events that would build up lore and story and also update the map with more content. I recorded the last live event on YouTube.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BFYlNUGuG_g?si=_QLfbHmXrntPzimb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>A problem with these live events would be that they weren't officially supported by the engine and game platform i used (LittleBigPlanet) so i had to do some workarounds to get it to work (i even faked interaction between other players on the server), there wasn't actually a server being updated live, in reality i updated the whole game a bit before the announced live event would start, knowing that the players of the old version will have been kicked out of the game by now, since the game ends eventually, as i mentioned. So that new build would contain the live event and after the live event is over the players would either be transfered to an unlisted version of the newest build with all of the changes made by the live event being in effect, the new map etc, or the changes would just be done on the live event build they're currently on too, then i updated the build while they were still in the game to the post-live event version, so if they'd leave the game and rejoin they woudn't see the live event again and instead the aftermath of the event that happened.</p>\n<p>The problem with this is: what would happen if a player joined right before the live event was to start but after i already updated to the live event build, they would be slightly out of sync, but thats not even that bad, the real issue lies within what would happen if someone decided to restart the level or leave it during the event and rejoin, the live event would repeat!</p>\n<p>Anyway, i dont think that ever really happened though, so thats good. Eventually the final live event lead up to the entire map being destroyed and <a href=\"https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-2.html\">Real life RPG 2</a> to come out!</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/9/a403aa1e70bb8c0321ad405e15643620962a712b.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-24T15:59:27+02:00",
+            "date_modified": "2024-06-24T16:09:48+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/the-secret-garden.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/the-secret-garden.html",
+            "title": "The secret garden",
+            "summary": "This was the first proper level i ever created in LittleBigPlanet and the start of my YouTube channel. I made a YouTube video&hellip;",
+            "content_html": "<p>This was the first proper level i ever created in LittleBigPlanet and the start of my YouTube channel. I made a YouTube video on it, i hoped that the level was so good that it would get me the the prize crown (a reward given out to the best creations on LBP) but it didnt, i can see why. But the level was fine, especially for its time.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NiFnMLjf68o?si=1H5NBb9RED7m07s3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/8/2c3279234768ae883613d7e2e79f80fea325a985.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-24T15:18:24+02:00",
+            "date_modified": "2024-06-24T15:21:05+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/prison-survival-14-players.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/prison-survival-14-players.html",
+            "title": "Prison Survival 1/4 players",
+            "summary": "In this game you're trying to escape a prison, this was supposed to be similar to The Escapists and i wanted to try&hellip;",
+            "content_html": "<p>In this game you're trying to escape a prison, this was supposed to be similar to <a href=\"https://store.steampowered.com/app/641990/The_Escapists_2/\" target=\"_blank\" rel=\"noopener noreferrer\">The Escapists</a> and i wanted to try to make a functioning ai that would react to your actions beliably, in retrospect i didn't really succeed, but i guess it could be worse.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/7/a0ca1365d1ad4d1481431afa27d7f6b0fa16540a.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-24T15:11:12+02:00",
+            "date_modified": "2024-06-24T15:11:12+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/cloud-platformer.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/cloud-platformer.html",
+            "title": "Cloud Platformer",
+            "summary": "This is a little platformer where you have to swing across clouds, there are a few extra obstacles along the way, for example&hellip;",
+            "content_html": "<p>This is a little platformer where you have to swing across clouds, there are a few extra obstacles along the way, for example at some point you need to bring a mother cloud her son back so she lets you through, but it all goes by pretty quickly.</p>\n<p>I made this completely on my own, but i think it's a fun short little platformer, even though there are a few bugs.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/6/e1ee4160e88f7f99a84945d9a061eeacaaa0acef.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-24T15:02:33+02:00",
+            "date_modified": "2024-06-24T15:02:33+02:00"
+        },
+        {
             "id": "https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html",
             "url": "https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html",
             "title": "Introduction",
@@ -26,7 +106,10 @@
         {
             "id": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
             "url": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
-            "title": "One of my Projects",
+            "title": "Der Fall der Weisen",
+            "summary": "Der Fall der Weisen was one of the first projects i've ever participated on with other people, and i met quite a few&hellip;",
+            "content_html": "<p class=\"align-left\">Der Fall der Weisen was one of the first projects i've ever participated on with other people, and i met quite a few people through it like Toastbrot and Steven4Zimmer who went one to become some of my best friends, which is why im very fond and nostalgic about this project, its the beginning of something big. </p>\n<p>The level itself also has a very mystical and eerie atmosphere, but not in a bad way, its hard to describe, its the kind of magic Steven4Zimmer always brought to the table, it's sad that i don't have much contact with him anymore, but i do with Toastbrot. It was made at a time where we could just wake up and work on our projects the whole day every day.</p>\n<p>It's a puzzle level with a bunch of cinematic (and sometimes funny) elements with a bunch of little surprises along the way.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/4/9ec6d64377d4c050d30e257552ab9df16b44009f.png",
             "author": {
                 "name": "Toyo"
             },
@@ -34,14 +117,14 @@
                    "Projects"
             ],
             "date_published": "2024-06-16T20:51:27+02:00",
-            "date_modified": "2024-06-16T20:51:27+02:00"
+            "date_modified": "2024-06-24T14:53:19+02:00"
         },
         {
             "id": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
             "url": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
             "title": "Infinite",
             "summary": "The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to&hellip;",
-            "content_html": "<p>The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to bring back its online functionality. To access the servers users have to modify their Playstation 3 by jailbreaking it so that the eboot.bin file (which is essentially the executable file of the game) can be modefied to connect to our server, instead of the old one, which is, of course, shut down.</p>\n<p>I'm lucky to have a passionate and dedicated Team by my side!</p>",
+            "content_html": "<p>The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to bring back its online functionality. To access the servers users have to modify their Playstation 3 by jailbreaking it so that the eboot.bin file (which is essentially the executable file of the game) can be modefied to connect to our server, instead of the old one, which is, of course, shut down.</p>\n<p>I'm lucky to have a passionate and dedicated Team by my side, thanks to all of our efforts and our community, Infinite became one of the biggest custom servers and we're constantly working on bringing new features and updates to the table, to keep it fresh.</p>\n<p>You can check out the server's website here: <a href=\"https://lnfinite.site\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://lnfinite.site\" target=\"_blank\" rel=\"noopener noreferrer\">Infinite</a></p>\n<p>And it's discord here: <a href=\"https://t.co/E3yjwBHRJ6\" target=\"_blank\" rel=\"noopener noreferrer\">Infinite's Discord</a></p>",
             "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/3/Application-Banner.jpg",
             "author": {
                 "name": "Toyo"
@@ -49,7 +132,7 @@
             "tags": [
             ],
             "date_published": "2024-06-16T20:49:55+02:00",
-            "date_modified": "2024-06-23T21:01:25+02:00"
+            "date_modified": "2024-06-24T14:38:53+02:00"
         },
         {
             "id": "https://oo1toyo1oo.github.io/WhoIsToyo/choosing-an-engine.html",
