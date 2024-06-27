@@ -10,6 +10,115 @@
     },
     "items": [
         {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/in-die-fabrik-fuer-ein-besseres-morgen-falls-es-das-gibt.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/in-die-fabrik-fuer-ein-besseres-morgen-falls-es-das-gibt.html",
+            "title": "In Die Fabrik Für Ein Besseres Morgen Falls Es Das Gibt",
+            "summary": "This is a game meant to showcase and make use of the Playstation Vita integration for LittleBigPlanet 2, the theme is based around&hellip;",
+            "content_html": "<p>This is a game meant to showcase and make use of the Playstation Vita integration for LittleBigPlanet 2, the theme is based around a location from the official story mode. Using a PS Vita alongside the PS3 you have to solve all kinds of puzzles and there's also some funny dialogue and interactions with Clive (also a character from the official story mode)</p>\n<p>For a lot of puzzles i had to recreate the enviroments i already made for the base PS3 for the PS Vita so you could interact with things on your Vita and see the result of your actions on the big screen, while also taking into account that you have a lot less assets available on Vita while linked to the PS3 like this, syncing the positions of certain movable materials across both screens was also very tricky, and there are still some bugs, but its working.</p>\n<p>I also made sure to pay close attention to the design and i feel like i definitely succeded to an extent, all in all i would say its a pretty solid short puzzle platformer, it's a shame that so few people own both a PS3 and a PS Vita (not to mention they need to own LittleBigPlanet 2) so very few people ever played it.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/17/0d99b42b124bd8c6730e9ac77d412d712255eb2f.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-27T07:52:40+02:00",
+            "date_modified": "2024-06-27T07:52:40+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/creator-pack-3.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/creator-pack-3.html",
+            "title": "Creator Pack 3",
+            "summary": "This isn't a regular game, its a collection of helpful mechanisms and mechanic logic pieces as well as pictures of Super Mario Bros&hellip;",
+            "content_html": "<p>This isn't a regular game, its a collection of helpful mechanisms and mechanic logic pieces as well as pictures of Super Mario Bros and Spongebob, it's made in and primarily for LittleBigPlanet 1 since in the entires following after you can properly code using visual programming, so i replicated specific logic pieces from the newer entires as mechanisms and gave them out for people to use. Hopefully it helped some people.</p>\n<p>Even though this isn't supposed to be a regular game, i still made sure that it had a nice design thats consistent across the whole level and that everything was presented well. Also the reason why its called Creator Pack 3 is because there was already an official one by the creators of LittleBigPlanet and a popular fan made one.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/16/c0b2fd1803279fdb5c0694fa03a9d3cf131b79a0.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:43:05+02:00",
+            "date_modified": "2024-06-27T07:43:05+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby-2.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby-2.html",
+            "title": "Terror auf der Frount Crisby 2",
+            "summary": "This is the sequel to Terror auf der Frount Crisby and i'd say its definitely higher quality than the first one, this of course&hellip;",
+            "content_html": "<p>This is the sequel to <a href=\"https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby.html\"></a><a href=\"https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby.html\">Terror auf der Frount Crisby</a> and i'd say its definitely higher quality than the first one, this of course is also made in collaboration with InfinityZockerA9. In the sequel there are more cutscenes and special gadets and interactions as you try to escape the ship you've crashed on, including a special boss and the conclusion of the adventure.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/15/5d2ba848f88414f089026f229afa0bcb06355a63.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:31:01+02:00",
+            "date_modified": "2024-06-27T07:31:01+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/terror-auf-der-frount-crisby.html",
+            "title": "Terror auf der Frount Crisby",
+            "summary": "This is a level made in collaboration with InfinityZockerA9, its a platformer set in space with a bit of narrative mixed in. There&hellip;",
+            "content_html": "<p>This is a level made in collaboration with InfinityZockerA9, its a platformer set in space with a bit of narrative mixed in. There are bunch of obstacles to overcome on your spaceship, especially when things start going south.</p>",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:24:19+02:00",
+            "date_modified": "2024-06-27T07:24:19+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/frostige-panik.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/frostige-panik.html",
+            "title": "Frostige Panik",
+            "summary": "This is a survival game i made in LittleBigPlanet Vita, you have to avoid a bunch of obstacles and if you die, the&hellip;",
+            "content_html": "<p>This is a survival game i made in LittleBigPlanet Vita, you have to avoid a bunch of obstacles and if you die, the game ends. It's obviously DC Comics based i made sure to add quite a bit of design to the enviroment.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/13/f0c6fa3ab524a00fcb6bf37e56763fa5c1142f87.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:21:05+02:00",
+            "date_modified": "2024-06-27T07:21:05+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/dreams.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/dreams.html",
+            "title": "Dreams",
+            "summary": "Dreams is a short narrative game i made in LittleBigPlanet Vita, it's quite mysterious and ominious, with makes sense considering its about dreams.",
+            "content_html": "<p>Dreams is a short narrative game i made in LittleBigPlanet Vita, it's quite mysterious and ominious, with makes sense considering its about dreams. You basically transition between all kinds of dream landscapes until the end, this one's more story based so i don't really want to spoil a lot.</p>\n<p>Its very impressive how a Playstation Vita is powerful enough to basically run a whole game engine.</p>",
+            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/12/b04416262cbaf5751b159dd2c3dbaed99399568b.png",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:17:48+02:00",
+            "date_modified": "2024-06-27T07:17:48+02:00"
+        },
+        {
+            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/der-boden-ist-lava.html",
+            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/der-boden-ist-lava.html",
+            "title": "Der boden ist lava",
+            "summary": "This is a level that i made together with an old friend InfinityZockerA9, i made most of the programming etc though. In the&hellip;",
+            "content_html": "<p>This is a level that i made together with an old friend InfinityZockerA9,  i made most of the programming etc though. In the game you there are 2 maps you can choose, one being space based, one being canyon based and every few seconds the ground turns into lava (or starts burning to be more exact) and you have to jump onto the objects in your enviroment to survive, as time goes on more and more objects dissapear so it gets harder and harder to survive.</p>\n<p>There are also rewards for hitting certain score milestones, the score increases every time you survive a wave. It's a pretty neat little game that has quite a bit of replayability. In retrospect we could have definitely expanded on it by adding more maps, adding a shop with upgrades to add more depth to the gameplay etc but it's fine the way it is.</p>",
+            "author": {
+                "name": "Toyo"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-06-27T07:12:51+02:00",
+            "date_modified": "2024-06-27T07:12:58+02:00"
+        },
+        {
             "id": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-2.html",
             "url": "https://oo1toyo1oo.github.io/WhoIsToyo/real-life-rpg-2.html",
             "title": "Real life RPG 2",
@@ -56,97 +165,6 @@
             ],
             "date_published": "2024-06-24T15:18:24+02:00",
             "date_modified": "2024-06-24T15:21:05+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/prison-survival-14-players.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/prison-survival-14-players.html",
-            "title": "Prison Survival 1/4 players",
-            "summary": "In this game you're trying to escape a prison, this was supposed to be similar to The Escapists and i wanted to try&hellip;",
-            "content_html": "<p>In this game you're trying to escape a prison, this was supposed to be similar to <a href=\"https://store.steampowered.com/app/641990/The_Escapists_2/\" target=\"_blank\" rel=\"noopener noreferrer\">The Escapists</a> and i wanted to try to make a functioning ai that would react to your actions beliably, in retrospect i didn't really succeed, but i guess it could be worse.</p>",
-            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/7/a0ca1365d1ad4d1481431afa27d7f6b0fa16540a.png",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-                   "Projects"
-            ],
-            "date_published": "2024-06-24T15:11:12+02:00",
-            "date_modified": "2024-06-24T15:11:12+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/cloud-platformer.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/cloud-platformer.html",
-            "title": "Cloud Platformer",
-            "summary": "This is a little platformer where you have to swing across clouds, there are a few extra obstacles along the way, for example&hellip;",
-            "content_html": "<p>This is a little platformer where you have to swing across clouds, there are a few extra obstacles along the way, for example at some point you need to bring a mother cloud her son back so she lets you through, but it all goes by pretty quickly.</p>\n<p>I made this completely on my own, but i think it's a fun short little platformer, even though there are a few bugs.</p>",
-            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/6/e1ee4160e88f7f99a84945d9a061eeacaaa0acef.png",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-                   "Projects"
-            ],
-            "date_published": "2024-06-24T15:02:33+02:00",
-            "date_modified": "2024-06-24T15:02:33+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/introduction.html",
-            "title": "Introduction",
-            "summary": "Hey! I'm Toyo and i'm interested in all kinds of tech, game developement and art. Over the years i've gained a lot of&hellip;",
-            "content_html": "<p>Hey! I'm Toyo and i'm interested in all kinds of tech, game developement and art.<br>Over the years i've gained a lot of knowledge about the general concepts of programming,<br>largely through a game series called \"LittleBigPlanet\".<br><br>LittleBigPlanet introduced me to the concept of programming and game developement<br>at an early age, over the years i mastered it until i was pretty much able to programm anything<br>in it. It's shocking how powerful the visual programming language of that series is,<br>i wished it would've been on pc and allowed you to export your games but sadly everything<br>that you create in it is locked to inside of the game.<br><br>In the meantime they've also released another engine-game called \"Dreams\" but at this<br>point i wasn't dedicated to fully learning that anymore, it also has the exact same problems<br>as its predecessor.<br><br>So now i'm starting to learn \"real\" game developement engines and im going to document my progress<br>and everything between inside of my blogs in the hopes that it may help somebody else and also for myself.<br>In addition to that i am also going to showcase my already existing game projects on here and provide<br>some insights into their creation processes.<br><br>At this point i am also running a custom server for the aforementioned game series as the official servers<br>have (unsurprisingly) been shut down. I'm using open source software for this, which is convenient for me<br>as i'm actually not very experienced in networking. We also have a relatively big team at this point alongside<br>a Discord Server, it's my most successful project by far so there will be a seperate page dedicated to it.<br><br>I also have an (inactive) YouTube channel and a lot more social media, almost all of which you'll be able to<br>find on my social media page. I'm also learning html and css right now so this website will definitely<br>improve in functionality and design as time goes on and i gain more experience.<br>Oh, and im also bilingual, i speak both german and english fluently and see both as my \"native\"<br>languages, since i've grown up learning both. I use English primarily though, for pretty much everything<br>that doesn't involve speaking with people in real life (including thinking most of the time) as i live in Germany.<br><br>Anyway, i hope that's enough of an introduction and that you'll enjoy following my journey!</p>",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-23T20:33:19+02:00",
-            "date_modified": "2024-06-23T20:33:19+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/one-of-my-projects.html",
-            "title": "Der Fall der Weisen",
-            "summary": "Der Fall der Weisen was one of the first projects i've ever participated on with other people, and i met quite a few&hellip;",
-            "content_html": "<p class=\"align-left\">Der Fall der Weisen was one of the first projects i've ever participated on with other people, and i met quite a few people through it like Toastbrot and Steven4Zimmer who went one to become some of my best friends, which is why im very fond and nostalgic about this project, its the beginning of something big. </p>\n<p>The level itself also has a very mystical and eerie atmosphere, but not in a bad way, its hard to describe, its the kind of magic Steven4Zimmer always brought to the table, it's sad that i don't have much contact with him anymore, but i do with Toastbrot. It was made at a time where we could just wake up and work on our projects the whole day every day.</p>\n<p>It's a puzzle level with a bunch of cinematic (and sometimes funny) elements with a bunch of little surprises along the way.</p>",
-            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/4/9ec6d64377d4c050d30e257552ab9df16b44009f.png",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-                   "Projects"
-            ],
-            "date_published": "2024-06-16T20:51:27+02:00",
-            "date_modified": "2024-06-24T14:53:19+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/infinite.html",
-            "title": "Infinite",
-            "summary": "The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to&hellip;",
-            "content_html": "<p>The official servers for the game series LittleBigPlanet shut down a while ago, and Infinite is one of the custom servers aiming to bring back its online functionality. To access the servers users have to modify their Playstation 3 by jailbreaking it so that the eboot.bin file (which is essentially the executable file of the game) can be modefied to connect to our server, instead of the old one, which is, of course, shut down.</p>\n<p>I'm lucky to have a passionate and dedicated Team by my side, thanks to all of our efforts and our community, Infinite became one of the biggest custom servers and we're constantly working on bringing new features and updates to the table, to keep it fresh.</p>\n<p>You can check out the server's website here: <a href=\"https://lnfinite.site\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://lnfinite.site\" target=\"_blank\" rel=\"noopener noreferrer\">Infinite</a></p>\n<p>And it's discord here: <a href=\"https://t.co/E3yjwBHRJ6\" target=\"_blank\" rel=\"noopener noreferrer\">Infinite's Discord</a></p>",
-            "image": "https://oo1toyo1oo.github.io/WhoIsToyo/media/posts/3/Application-Banner.jpg",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-16T20:49:55+02:00",
-            "date_modified": "2024-06-24T14:38:53+02:00"
-        },
-        {
-            "id": "https://oo1toyo1oo.github.io/WhoIsToyo/choosing-an-engine.html",
-            "url": "https://oo1toyo1oo.github.io/WhoIsToyo/choosing-an-engine.html",
-            "title": "Choosing an Engine",
-            "summary": "Welcome to my first blog post! So i have decided that im going to be primarily using Gamemaker Studio 2 for 2D games,&hellip;",
-            "content_html": "<p>Welcome to my first blog post!<br><br>So i have decided that im going to be primarily using Gamemaker Studio 2<br>for 2D games, and Unreal Engine for 3D games. I have tested Gamemaker<br>for a while now and i find it to be easy and convenient to use,<br>it also only requires a one-time fee to start commercially selling your games.<br>Most engines are going to take a cut once your game has sold a certrain number<br>of copies, but not Gamemaker (or Godot). But the downside to Gamemaker is that<br>you can't create 3D games, at least not without tricking the hell out of<br>the engine. So im going to be using Unreal for 3D, i've been considering Unity,<br>however since the whole drama that happened where they wanted to charge game<br>devs for installations, i don't think that's a good idea.<br><br>Both Unreal and Unity feature a visual programming language, similar to the one in used back in LittleBigPlanet. So i'd probably be able to get into it pretty quickly, however<br>for Gamemaker at least i do want to use its dedicated gml code as much as possible,<br>because it would improve my traditonal coding skills, for Unreal i think i'll use<br>their blueprint system primarily though, as they only offer c++ as an alternative<br>which im not very interested in learning right now, blueprints seem to be powerful enough.<br><br>I had also been learning Renpy a while back, it's an engine and programming language for the developement of visual novels and it's very easy to use, i feel like i got the most<br>importing things figured out about it, right now i dont really want to focus on visual<br>novel stuff though, but it's nice to know i suppose.<br><br>Alright so i'm currently watching a bunch of tutorials on Gamemaker, i already learned some stuff but its all still very basic. And without tutorials i cant really make much at all,<br>so im kind of trapped in tutorial hell right now. I'll try to participate in Game Jams<br>as soon as possible as its the quickest and best way to learn in game developement from what i've seen.<br><br>But first i want to finish a short experimental Platformer game first called Rainhiker,<br>so i can gain some more skill before actually participating in any Game Jams.<br>I only have a rough concept for the game right now i do think i can make something<br>out of it...</p>",
-            "author": {
-                "name": "Toyo"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-16T20:46:37+02:00",
-            "date_modified": "2024-06-16T20:48:55+02:00"
         }
     ]
 }
